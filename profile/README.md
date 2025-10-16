@@ -10,7 +10,7 @@ Then, you add a new GitHub Actions workflow with the [judges-action] plugin to y
 Finally, you get a report similar to [this one][vitals].
 You and all your team members will know who contributes how much.
 You will be able to reward them based on this information.
-You can also let Zerocracy distribute money among programmers, according to their contribution.
+You can also let [Zerocracy] distribute money among programmers, according to their contribution.
 
 If you want to discuss, join our [Telegram chat](https://t.me/zerocracy).
 
