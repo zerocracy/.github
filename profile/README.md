@@ -17,3 +17,4 @@ If you want to discuss, join our [Telegram chat](https://t.me/zerocracy).
 [Zerocracy]: https://www.zerocracy.com
 [vitals]: https://zerocracy.github.io/judges-action/zerocracy-vitals.html
 [how-it-works]: https://www.zerocracy.com/how-it-works
+[judges-action]: https://github.com/zerocracy/judges-action
