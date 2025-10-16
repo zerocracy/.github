@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-join-active?logo=telegram)](https://t.me/zerocracy)
 [![Zerocracy vitals](https://zerocracy.github.io/judges-action/zerocracy-badge.svg)](https://zerocracy.github.io/judges-action/zerocracy-vitals.html)
 
-[Zerocracy] boosts the productivity of software teams by rewarding and punishing programmers when they deserve it—programmers, not teams.
+[Zerocracy] boosts the productivity of software teams by rewarding and punishing programmers when they deserve it.
 
 First, you get a token at [zerocracy.com][Zerocracy].
 Then, you add a new GitHub Actions workflow with the [judges-action] plugin to your GitHub repository.
