@@ -6,10 +6,10 @@
 Zerocracy is an automated analyzer of your team performance.
 
 Take a look at [the report] it generates for our team.
-
-If you want to discuss, join our [Telegram chat](https://t.me/zerocracy).
 You can get the same for your team.
 Start from reading this page: [how-it-works].
+
+If you want to discuss, join our [Telegram chat](https://t.me/zerocracy).
 
 [the report]: https://zerocracy.github.io/judges-action/zerocracy-vitals.html
 [how-it-works]: https://www.zerocracy.com/how-it-works
